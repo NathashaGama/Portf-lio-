@@ -16,3 +16,16 @@ body *{
     color: white;
     font-family:'Courier New', Courier, monospace;
 }
+.divMae{
+    max-width: 500px;
+    padding:0 25px;
+    margin: 50px auto;
+}
+.perfil{
+    text-align: center;
+    padding: 25px 0;
+}
+.perfil img{
+    width: 250px;
+    border-radius: 50%;
+}
