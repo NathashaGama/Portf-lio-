@@ -3,9 +3,16 @@
     padding: 0;
     box-sizing: 0;
 }
+body{
+    background: url("../img/bg-desktop-dark.jpg") no-repeat top center/cover;
+}
 a{
     text-decoration: none;
 }
-body{
-    background: url("../img/bg-desktop-dark.jpg") no-repeat top center/cover;
+/*p, footer, a{
+    color: aliceblue;
+}*/
+body *{
+    color: white;
+    font-family:'Courier New', Courier, monospace;
 }
