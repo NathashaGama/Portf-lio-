@@ -10,3 +10,5 @@ function togglemode(){
         img.setAttribute("src","./img/img1.jpeg");
     }
 }
+
+
